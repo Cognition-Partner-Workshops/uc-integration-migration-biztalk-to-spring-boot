@@ -13,14 +13,14 @@ migration into independent, parallel work items.
 
 | Area | Samples | Orchestrations (`.odx`) | Maps (`.btm`) | Schemas (`.xsd`) | Pipelines (`.btp`) | BizTalk projects (`.btproj`) |
 |------|--------:|------:|------:|------:|------:|------:|
-| `Working-with-Maps/` | 35 | 9 | 151 | 152 | 0 | 35 |
-| `Working-with-Orquestrations/` | 12 | 21 | 3 | 26 | 0 | 13 |
-| `Working-with-Schemas/` | 9 | 0 | 1 | 15 | 8 | 7 |
+| `Working-with-Maps/` | 34 | 9 | 151 | 152 | 0 | 35 |
+| `Working-with-Orquestrations/` | 11 | 21 | 3 | 26 | 0 | 13 |
+| `Working-with-Schemas/` | 8 | 0 | 1 | 15 | 8 | 7 |
 | `Working-with-Routing/` | 1 | 1 | 6 | 7 | 1 | 1 |
-| `Working-with-Pipelines/` | 2 | 0 | 0 | 0 | 1 | 1 |
-| `Working-with-Adapters/` | 3 | 2 | 0 | 3 | 0 | 2 |
-| `Testing-Deploying-and-Managing-BizTalk-Applications/` | 3 | 0 | 8 | 8 | 0 | 2 |
-| `Tracking-and-Troubleshooting-BizTalk-Applications/` | 2 | 1 | 0 | 0 | 0 | 1 |
+| `Working-with-Pipelines/` | 1 | 0 | 0 | 0 | 1 | 1 |
+| `Working-with-Adapters/` | 2 | 2 | 0 | 3 | 0 | 2 |
+| `Testing-Deploying-and-Managing-BizTalk-Applications/` | 2 | 0 | 8 | 8 | 0 | 2 |
+| `Tracking-and-Troubleshooting-BizTalk-Applications/` | 1 | 1 | 0 | 0 | 0 | 1 |
 
 Artifacts also include binding files (`*BindingInfo.xml`), WCF-SQL adapter schemas, custom
 functoids and pipeline components (C#), BizTalk unit tests, and sample input/output messages.
