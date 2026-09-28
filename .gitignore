@@ -1,0 +1,10 @@
+# Java / Spring Boot migration output
+target/
+build/
+.gradle/
+*.class
+.idea/
+*.iml
+.vscode/
+# Visual Studio
+.vs/
