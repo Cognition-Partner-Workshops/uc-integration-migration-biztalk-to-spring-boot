@@ -1,1 +1,3 @@
-{}
+{
+  "working-with-maps/grouping-pattern-selecting-distinct-nodes/Sample1.MapListParteners": ["java", "-jar", "spring-boot-app/target/biztalk-migration-0.1.0-SNAPSHOT.jar", "--map=MapListParteners", "{input}"]
+}
