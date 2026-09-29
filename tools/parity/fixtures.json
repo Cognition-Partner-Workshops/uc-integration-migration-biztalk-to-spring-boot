@@ -1,0 +1,1525 @@
+{
+  "maps": [
+    {
+      "id": "testing-deploying-and-managing-biztalk-applications/bts-2010-using-unit-testing-schemas-and-maps/Maps.BasicsOfMaps",
+      "sample": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps",
+      "project": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/UnitTestingFeatureWithMaps.btproj",
+      "btm": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/Maps/BasicsOfMaps.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "testing-deploying-and-managing-biztalk-applications/bts-2010-using-unit-testing-schemas-and-maps/Maps.HowMapsWorks",
+      "sample": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps",
+      "project": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/UnitTestingFeatureWithMaps.btproj",
+      "btm": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/Maps/HowMapsWorks.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "testing-deploying-and-managing-biztalk-applications/bts-2010-using-unit-testing-schemas-and-maps/Maps.LinksOutOfOrder",
+      "sample": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps",
+      "project": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/UnitTestingFeatureWithMaps.btproj",
+      "btm": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/Maps/LinksOutOfOrder.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "testing-deploying-and-managing-biztalk-applications/bts-2010-using-unit-testing-schemas-and-maps/Maps.LinksPerOrder",
+      "sample": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps",
+      "project": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/UnitTestingFeatureWithMaps.btproj",
+      "btm": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/Maps/LinksPerOrder.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "testing-deploying-and-managing-biztalk-applications/bts-2010-using-unit-testing-schemas-and-maps/Maps.ScriptingFunctoidSample",
+      "sample": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps",
+      "project": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/UnitTestingFeatureWithMaps.btproj",
+      "btm": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/Maps/ScriptingFunctoidSample.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "testing-deploying-and-managing-biztalk-applications/bts-2010-using-unit-testing-schemas-and-maps/Maps.WorkingWithLabels",
+      "sample": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps",
+      "project": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/UnitTestingFeatureWithMaps.btproj",
+      "btm": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2010-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/Maps/WorkingWithLabels.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "testing-deploying-and-managing-biztalk-applications/bts-2013-using-unit-testing-schemas-and-maps/Maps.BasicsOfMaps",
+      "sample": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2013-Using-Unit-Testing-Schemas-and-Maps",
+      "project": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2013-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/UnitTestingFeatureWithMaps.btproj",
+      "btm": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2013-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/Maps/BasicsOfMaps.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "testing-deploying-and-managing-biztalk-applications/bts-2013-using-unit-testing-schemas-and-maps/Maps.HowMapsWorks",
+      "sample": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2013-Using-Unit-Testing-Schemas-and-Maps",
+      "project": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2013-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/UnitTestingFeatureWithMaps.btproj",
+      "btm": "Testing-Deploying-and-Managing-BizTalk-Applications/BTS-2013-Using-Unit-Testing-Schemas-and-Maps/UnitTestingFeatureWithMaps/Maps/HowMapsWorks.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/automatically-link-record-elements-by-structure-name-or-mass-copy/LinkByName.MapByName",
+      "sample": "Working-with-Maps/Automatically-Link-Record-Elements-By-Structure-Name-or-Mass-Copy",
+      "project": "Working-with-Maps/Automatically-Link-Record-Elements-By-Structure-Name-or-Mass-Copy/BizTalkMapperSemanticTranslatorPattern/BizTalkMapperSemanticTranslatorPattern.btproj",
+      "btm": "Working-with-Maps/Automatically-Link-Record-Elements-By-Structure-Name-or-Mass-Copy/BizTalkMapperSemanticTranslatorPattern/LinkByName/MapByName.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/automatically-link-record-elements-by-structure-name-or-mass-copy/LinkBySctructure.MapBySctructure",
+      "sample": "Working-with-Maps/Automatically-Link-Record-Elements-By-Structure-Name-or-Mass-Copy",
+      "project": "Working-with-Maps/Automatically-Link-Record-Elements-By-Structure-Name-or-Mass-Copy/BizTalkMapperSemanticTranslatorPattern/BizTalkMapperSemanticTranslatorPattern.btproj",
+      "btm": "Working-with-Maps/Automatically-Link-Record-Elements-By-Structure-Name-or-Mass-Copy/BizTalkMapperSemanticTranslatorPattern/LinkBySctructure/MapBySctructure.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/automatically-link-record-elements-by-structure-name-or-mass-copy/MassCopy.MapUsingCustomMassCopy",
+      "sample": "Working-with-Maps/Automatically-Link-Record-Elements-By-Structure-Name-or-Mass-Copy",
+      "project": "Working-with-Maps/Automatically-Link-Record-Elements-By-Structure-Name-or-Mass-Copy/BizTalkMapperSemanticTranslatorPattern/BizTalkMapperSemanticTranslatorPattern.btproj",
+      "btm": "Working-with-Maps/Automatically-Link-Record-Elements-By-Structure-Name-or-Mass-Copy/BizTalkMapperSemanticTranslatorPattern/MassCopy/MapUsingCustomMassCopy.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/automatically-link-record-elements-by-structure-name-or-mass-copy/MassCopy.MapUsingMassCopy",
+      "sample": "Working-with-Maps/Automatically-Link-Record-Elements-By-Structure-Name-or-Mass-Copy",
+      "project": "Working-with-Maps/Automatically-Link-Record-Elements-By-Structure-Name-or-Mass-Copy/BizTalkMapperSemanticTranslatorPattern/BizTalkMapperSemanticTranslatorPattern.btproj",
+      "btm": "Working-with-Maps/Automatically-Link-Record-Elements-By-Structure-Name-or-Mass-Copy/BizTalkMapperSemanticTranslatorPattern/MassCopy/MapUsingMassCopy.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Map1",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/ComoFuncinamOsMapas.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/Map1.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Map3",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/ComoFuncinamOsMapas.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/Map3.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Mapas.ComoFuncionamOsMapas",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/ComoFuncinamOsMapas.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/Mapas/ComoFuncionamOsMapas.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Mapas.Etiquetas",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/ComoFuncinamOsMapas.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/Mapas/Etiquetas.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Mapas.ExemploScriptingFunctoid",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/ComoFuncinamOsMapas.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/Mapas/ExemploScriptingFunctoid.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Mapas.LinkForaOrdemMap",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/ComoFuncinamOsMapas.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/Mapas/LinkForaOrdemMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Mapas.Map1",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/ComoFuncinamOsMapas.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/Mapas/Map1.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Mapas.PessoaOrigemParaDestino",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/ComoFuncinamOsMapas.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/Mapas/PessoaOrigemParaDestino.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Mapas.RecordLinkPorOrdem",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/ComoFuncinamOsMapas.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/Mapas/RecordLinkPorOrdem.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/MapasNetPonto.DemoNetPonto",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/ComoFuncinamOsMapas.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/MapasNetPonto/DemoNetPonto.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Maps.BasicsOfMaps",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/HowMapsWorks/HowMapsWorks.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/HowMapsWorks/Maps/BasicsOfMaps.btm",
+      "input": "Working-with-Maps/Basics-principles-of-Maps/Files/PersonOrigin.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Maps.HowMapsWorks",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/HowMapsWorks/HowMapsWorks.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/HowMapsWorks/Maps/HowMapsWorks.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Maps.LinksOutOfOrder",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/HowMapsWorks/HowMapsWorks.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/HowMapsWorks/Maps/LinksOutOfOrder.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Maps.LinksPerOrder",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/HowMapsWorks/HowMapsWorks.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/HowMapsWorks/Maps/LinksPerOrder.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Maps.ScriptingFunctoidSample",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/HowMapsWorks/HowMapsWorks.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/HowMapsWorks/Maps/ScriptingFunctoidSample.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/Maps.WorkingWithLabels",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/HowMapsWorks/HowMapsWorks.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/HowMapsWorks/Maps/WorkingWithLabels.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/basics-principles-of-maps/NetPonto",
+      "sample": "Working-with-Maps/Basics-principles-of-Maps",
+      "project": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/ComoFuncinamOsMapas.btproj",
+      "btm": "Working-with-Maps/Basics-principles-of-Maps/ComoFuncinamOsMapas/NetPonto.btm",
+      "input": "Working-with-Maps/Basics-principles-of-Maps/Ficheiros/PessoaOrigem_output - SEM CodigoPostal.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/built-in-functoids-scripting-functoid-and-custom-functoids/MappingMultipleDates.MappingMultipleDates",
+      "sample": "Working-with-Maps/Built-in-Functoids-Scripting-Functoid-and-Custom-Functoids",
+      "project": "Working-with-Maps/Built-in-Functoids-Scripting-Functoid-and-Custom-Functoids/BuiltInVSScriptingVSCustomFunctoids/BuiltInVSScriptingVSCustomFunctoids.btproj",
+      "btm": "Working-with-Maps/Built-in-Functoids-Scripting-Functoid-and-Custom-Functoids/BuiltInVSScriptingVSCustomFunctoids/MappingMultipleDates/MappingMultipleDates.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/built-in-functoids-scripting-functoid-and-custom-functoids/MappingMultipleDates.MappingMultipleDatesUsingCustomFunctoid",
+      "sample": "Working-with-Maps/Built-in-Functoids-Scripting-Functoid-and-Custom-Functoids",
+      "project": "Working-with-Maps/Built-in-Functoids-Scripting-Functoid-and-Custom-Functoids/BuiltInVSScriptingVSCustomFunctoids/BuiltInVSScriptingVSCustomFunctoids.btproj",
+      "btm": "Working-with-Maps/Built-in-Functoids-Scripting-Functoid-and-Custom-Functoids/BuiltInVSScriptingVSCustomFunctoids/MappingMultipleDates/MappingMultipleDatesUsingCustomFunctoid.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/built-in-functoids-scripting-functoid-and-custom-functoids/MappingMultipleDates.MappingMultipleDatesUsingScriptingFunctoid",
+      "sample": "Working-with-Maps/Built-in-Functoids-Scripting-Functoid-and-Custom-Functoids",
+      "project": "Working-with-Maps/Built-in-Functoids-Scripting-Functoid-and-Custom-Functoids/BuiltInVSScriptingVSCustomFunctoids/BuiltInVSScriptingVSCustomFunctoids.btproj",
+      "btm": "Working-with-Maps/Built-in-Functoids-Scripting-Functoid-and-Custom-Functoids/BuiltInVSScriptingVSCustomFunctoids/MappingMultipleDates/MappingMultipleDatesUsingScriptingFunctoid.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/calling-external-assembly-from-custom-xslt/CarInfo_to_CarsOnSale",
+      "sample": "Working-with-Maps/Calling-external-assembly-from-Custom-XSLT",
+      "project": "Working-with-Maps/Calling-external-assembly-from-Custom-XSLT/BizTalk.CallingExternalAssemblyFromInlineXSLT/BizTalk.CallingExternalAssemblyFromInlineXSLT.btproj",
+      "btm": "Working-with-Maps/Calling-external-assembly-from-Custom-XSLT/BizTalk.CallingExternalAssemblyFromInlineXSLT/CarInfo_to_CarsOnSale.btm",
+      "input": "Working-with-Maps/Calling-external-assembly-from-Custom-XSLT/InputFile/CarInfo.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/canonical-data-model-pattern/01-Solution.ServiceSchemasToCanonical.AddUserPlatformBToCanonicalMap",
+      "sample": "Working-with-Maps/Canonical-Data-Model-Pattern",
+      "project": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/CanonicalDataModelPattern.btproj",
+      "btm": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/01-Solution/ServiceSchemasToCanonical/AddUserPlatformBToCanonicalMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/canonical-data-model-pattern/01-Solution.ServiceSchemasToCanonical.AddUserToCanonicalMap",
+      "sample": "Working-with-Maps/Canonical-Data-Model-Pattern",
+      "project": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/CanonicalDataModelPattern.btproj",
+      "btm": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/01-Solution/ServiceSchemasToCanonical/AddUserToCanonicalMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/canonical-data-model-pattern/01-Solution.ServiceSchemasToCanonical.ChangeUserInfoToCanonicalMap",
+      "sample": "Working-with-Maps/Canonical-Data-Model-Pattern",
+      "project": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/CanonicalDataModelPattern.btproj",
+      "btm": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/01-Solution/ServiceSchemasToCanonical/ChangeUserInfoToCanonicalMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/canonical-data-model-pattern/01-Solution.ServiceSchemasToCanonical.ChangeUserPasswordToCanonicalMap",
+      "sample": "Working-with-Maps/Canonical-Data-Model-Pattern",
+      "project": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/CanonicalDataModelPattern.btproj",
+      "btm": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/01-Solution/ServiceSchemasToCanonical/ChangeUserPasswordToCanonicalMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/canonical-data-model-pattern/01-Solution.ServiceSchemasToCanonical.RemoveUserToCanonicalMap",
+      "sample": "Working-with-Maps/Canonical-Data-Model-Pattern",
+      "project": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/CanonicalDataModelPattern.btproj",
+      "btm": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/01-Solution/ServiceSchemasToCanonical/RemoveUserToCanonicalMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/canonical-data-model-pattern/02-Solution.NestedToOneMapXSLT",
+      "sample": "Working-with-Maps/Canonical-Data-Model-Pattern",
+      "project": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/CanonicalDataModelPattern.btproj",
+      "btm": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/02-Solution/NestedToOneMapXSLT.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/canonical-data-model-pattern/02-Solution.OrderToSimpleOrderMap",
+      "sample": "Working-with-Maps/Canonical-Data-Model-Pattern",
+      "project": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/CanonicalDataModelPattern.btproj",
+      "btm": "Working-with-Maps/Canonical-Data-Model-Pattern/CanonicalDataModelPattern/02-Solution/OrderToSimpleOrderMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/01-CheckDataExistence.CheckDataExistenceMap",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/01-CheckDataExistence/CheckDataExistenceMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/02-IfThen.CommonConditionsMap",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/02-IfThen/CommonConditionsMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/02-IfThen.CommonConditionsMapImproved",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/02-IfThen/CommonConditionsMapImproved.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/03-IfThenElse.IfThenElseMap",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/03-IfThenElse/IfThenElseMap.btm",
+      "input": "Working-with-Maps/Conditional-Pattern/TestFiles/03/IfThenElseSource3.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/03-IfThenElse.IfThenElseMapSol2",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/03-IfThenElse/IfThenElseMapSol2.btm",
+      "input": "Working-with-Maps/Conditional-Pattern/TestFiles/03/IfThenElseSource4.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/03-IfThenElse.IfThenElseMapSol3",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/03-IfThenElse/IfThenElseMapSol3.btm",
+      "input": "Working-with-Maps/Conditional-Pattern/TestFiles/03/IfThenElseSource4.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/04-IfThenElseRecursiveRecords.MapIfInsideLoop",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/04-IfThenElseRecursiveRecords/MapIfInsideLoop.btm",
+      "input": "Working-with-Maps/Conditional-Pattern/TestFiles/04/Instance.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/04-IfThenElseRecursiveRecords.MapIfInsideLoop2",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/04-IfThenElseRecursiveRecords/MapIfInsideLoop2.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/04-IfThenElseRecursiveRecords.MapIfInsideLoop3",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/04-IfThenElseRecursiveRecords/MapIfInsideLoop3.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/04-IfThenElseRecursiveRecords.MapIfInsideLoop4",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/04-IfThenElseRecursiveRecords/MapIfInsideLoop4.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/04-IfThenElseRecursiveRecords.MapIfInsideLoop5",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/04-IfThenElseRecursiveRecords/MapIfInsideLoop5.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/05-SwitchStatement.MapConditionsRecords",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/05-SwitchStatement/MapConditionsRecords.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/05-SwitchStatement.MapConditionsRecordsCScript",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/05-SwitchStatement/MapConditionsRecordsCScript.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/05-SwitchStatement.MapConditionsRecordsXSLT",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/05-SwitchStatement/MapConditionsRecordsXSLT.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/conditional-pattern/MapConditions",
+      "sample": "Working-with-Maps/Conditional-Pattern",
+      "project": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/WorkingWithConditions.btproj",
+      "btm": "Working-with-Maps/Conditional-Pattern/WorkingWithConditions/MapConditions.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/content-enricher-pattern/1-TryingFunctoids.TransformUsingFunctoids",
+      "sample": "Working-with-Maps/Content-Enricher-Pattern",
+      "project": "Working-with-Maps/Content-Enricher-Pattern/JoinMultipleMessages/JoinMultipleMessages.btproj",
+      "btm": "Working-with-Maps/Content-Enricher-Pattern/JoinMultipleMessages/1-TryingFunctoids/TransformUsingFunctoids.btm",
+      "input": "Working-with-Maps/Content-Enricher-Pattern/TestFiles/inputfilemultiple.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/content-enricher-pattern/2-UsingFunctoidsandCSharp.TransformUsingFunctoids2Approach",
+      "sample": "Working-with-Maps/Content-Enricher-Pattern",
+      "project": "Working-with-Maps/Content-Enricher-Pattern/JoinMultipleMessages/JoinMultipleMessages.btproj",
+      "btm": "Working-with-Maps/Content-Enricher-Pattern/JoinMultipleMessages/2-UsingFunctoidsandCSharp/TransformUsingFunctoids2Approach.btm",
+      "input": "Working-with-Maps/Content-Enricher-Pattern/TestFiles/inputfilemultiple.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/content-enricher-pattern/3-UsingXSLTTemplate.TransformUserAndAddressToOutput",
+      "sample": "Working-with-Maps/Content-Enricher-Pattern",
+      "project": "Working-with-Maps/Content-Enricher-Pattern/JoinMultipleMessages/JoinMultipleMessages.btproj",
+      "btm": "Working-with-Maps/Content-Enricher-Pattern/JoinMultipleMessages/3-UsingXSLTTemplate/TransformUserAndAddressToOutput.btm",
+      "input": "Working-with-Maps/Content-Enricher-Pattern/TestFiles/inputfilemultiple.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/content-filter-pattern-data-cleaning-pattern/NormalizeAndRemoveUnnecessaryData.mapNormalizeAndRemoveUnnecessaryData",
+      "sample": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern",
+      "project": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern/BizTalkMapperContentFilterPattern/BizTalkMapperContentFilterPattern.btproj",
+      "btm": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern/BizTalkMapperContentFilterPattern/NormalizeAndRemoveUnnecessaryData/mapNormalizeAndRemoveUnnecessaryData.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/content-filter-pattern-data-cleaning-pattern/RemoveDuplicates.LastRequest.mapRemoveApplicationFormsDuplicates",
+      "sample": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern",
+      "project": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern/BizTalkMapperContentFilterPattern/BizTalkMapperContentFilterPattern.btproj",
+      "btm": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern/BizTalkMapperContentFilterPattern/RemoveDuplicates/LastRequest/mapRemoveApplicationFormsDuplicates.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/content-filter-pattern-data-cleaning-pattern/RemoveDuplicates.LastRequest.mapUsingExternalXSLTFileAndTemplates",
+      "sample": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern",
+      "project": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern/BizTalkMapperContentFilterPattern/BizTalkMapperContentFilterPattern.btproj",
+      "btm": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern/BizTalkMapperContentFilterPattern/RemoveDuplicates/LastRequest/mapUsingExternalXSLTFileAndTemplates.btm",
+      "input": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern/Files/Example2/ApplicationForms.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/content-filter-pattern-data-cleaning-pattern/RemoveDuplicates.Sample1.mapRemoveDuplicatesFunctoids",
+      "sample": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern",
+      "project": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern/BizTalkMapperContentFilterPattern/BizTalkMapperContentFilterPattern.btproj",
+      "btm": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern/BizTalkMapperContentFilterPattern/RemoveDuplicates/Sample1/mapRemoveDuplicatesFunctoids.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/content-filter-pattern-data-cleaning-pattern/RemoveDuplicates.Sample1.mapRemoveDuplicatesMuenchianMethod",
+      "sample": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern",
+      "project": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern/BizTalkMapperContentFilterPattern/BizTalkMapperContentFilterPattern.btproj",
+      "btm": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern/BizTalkMapperContentFilterPattern/RemoveDuplicates/Sample1/mapRemoveDuplicatesMuenchianMethod.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/content-filter-pattern-data-cleaning-pattern/RemoveDuplicates.Sample1.mapRemoveDuplicatesPrecedingSibling",
+      "sample": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern",
+      "project": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern/BizTalkMapperContentFilterPattern/BizTalkMapperContentFilterPattern.btproj",
+      "btm": "Working-with-Maps/Content-Filter-Pattern-Data-Cleaning-Pattern/BizTalkMapperContentFilterPattern/RemoveDuplicates/Sample1/mapRemoveDuplicatesPrecedingSibling.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/copy-processing-instructions-grid-property-explained/MapPIs",
+      "sample": "Working-with-Maps/Copy-Processing-Instructions-Grid-Property-explained",
+      "project": "Working-with-Maps/Copy-Processing-Instructions-Grid-Property-explained/MappingProcessingInstructions/MappingProcessingInstructions.btproj",
+      "btm": "Working-with-Maps/Copy-Processing-Instructions-Grid-Property-explained/MappingProcessingInstructions/MapPIs.btm",
+      "input": "Working-with-Maps/Copy-Processing-Instructions-Grid-Property-explained/Files/input.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/copy-processing-instructions-grid-property-explained/MapPIsTrue",
+      "sample": "Working-with-Maps/Copy-Processing-Instructions-Grid-Property-explained",
+      "project": "Working-with-Maps/Copy-Processing-Instructions-Grid-Property-explained/MappingProcessingInstructions/MappingProcessingInstructions.btproj",
+      "btm": "Working-with-Maps/Copy-Processing-Instructions-Grid-Property-explained/MappingProcessingInstructions/MapPIsTrue.btm",
+      "input": "Working-with-Maps/Copy-Processing-Instructions-Grid-Property-explained/Files/input.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/copy-processing-instructions-grid-property-explained/Mapdemo",
+      "sample": "Working-with-Maps/Copy-Processing-Instructions-Grid-Property-explained",
+      "project": "Working-with-Maps/Copy-Processing-Instructions-Grid-Property-explained/MappingProcessingInstructions/MappingProcessingInstructions.btproj",
+      "btm": "Working-with-Maps/Copy-Processing-Instructions-Grid-Property-explained/MappingProcessingInstructions/Mapdemo.btm",
+      "input": "Working-with-Maps/Copy-Processing-Instructions-Grid-Property-explained/Files/input1.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/external-custom-xslt-vs-biztalk-mapper/MapWithExternalXSLT",
+      "sample": "Working-with-Maps/External-Custom-XSLT-vs-BizTalk-Mapper",
+      "project": "Working-with-Maps/External-Custom-XSLT-vs-BizTalk-Mapper/ExternalCustomXSLTvsBizTalkMapper/ExternalCustomXSLTvsBizTalkMapper.btproj",
+      "btm": "Working-with-Maps/External-Custom-XSLT-vs-BizTalk-Mapper/ExternalCustomXSLTvsBizTalkMapper/MapWithExternalXSLT.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/external-custom-xslt-vs-biztalk-mapper/MapWithFunctoids",
+      "sample": "Working-with-Maps/External-Custom-XSLT-vs-BizTalk-Mapper",
+      "project": "Working-with-Maps/External-Custom-XSLT-vs-BizTalk-Mapper/ExternalCustomXSLTvsBizTalkMapper/ExternalCustomXSLTvsBizTalkMapper.btproj",
+      "btm": "Working-with-Maps/External-Custom-XSLT-vs-BizTalk-Mapper/ExternalCustomXSLTvsBizTalkMapper/MapWithFunctoids.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/external-custom-xslt-vs-biztalk-mapper/MapWithInlineXSLTandCSharp",
+      "sample": "Working-with-Maps/External-Custom-XSLT-vs-BizTalk-Mapper",
+      "project": "Working-with-Maps/External-Custom-XSLT-vs-BizTalk-Mapper/ExternalCustomXSLTvsBizTalkMapper/ExternalCustomXSLTvsBizTalkMapper.btproj",
+      "btm": "Working-with-Maps/External-Custom-XSLT-vs-BizTalk-Mapper/ExternalCustomXSLTvsBizTalkMapper/MapWithInlineXSLTandCSharp.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/generatedefaultfixednodes-attribute-of-the-mapsource-element/GenerateDefaultFixedNodes",
+      "sample": "Working-with-Maps/GenerateDefaultFixedNodes-attribute-of-the-mapsource-element",
+      "project": "Working-with-Maps/GenerateDefaultFixedNodes-attribute-of-the-mapsource-element/GenerateDefaultFixedNodes/GenerateDefaultFixedNodes.btproj",
+      "btm": "Working-with-Maps/GenerateDefaultFixedNodes-attribute-of-the-mapsource-element/GenerateDefaultFixedNodes/GenerateDefaultFixedNodes.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/generatedefaultfixednodes-attribute-of-the-mapsource-element/GenerateDefaultFixedNodesRequiredDefaults",
+      "sample": "Working-with-Maps/GenerateDefaultFixedNodes-attribute-of-the-mapsource-element",
+      "project": "Working-with-Maps/GenerateDefaultFixedNodes-attribute-of-the-mapsource-element/GenerateDefaultFixedNodes/GenerateDefaultFixedNodes.btproj",
+      "btm": "Working-with-Maps/GenerateDefaultFixedNodes-attribute-of-the-mapsource-element/GenerateDefaultFixedNodes/GenerateDefaultFixedNodesRequiredDefaults.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/generatedefaultfixednodes-attribute-of-the-mapsource-element/GenerateDefaultFixedNodesYes",
+      "sample": "Working-with-Maps/GenerateDefaultFixedNodes-attribute-of-the-mapsource-element",
+      "project": "Working-with-Maps/GenerateDefaultFixedNodes-attribute-of-the-mapsource-element/GenerateDefaultFixedNodes/GenerateDefaultFixedNodes.btproj",
+      "btm": "Working-with-Maps/GenerateDefaultFixedNodes-attribute-of-the-mapsource-element/GenerateDefaultFixedNodes/GenerateDefaultFixedNodesYes.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/grouping-pattern-group-elements-from-different-messages-biztalk-maps/Transform_User_and_Addresses_In_Output",
+      "sample": "Working-with-Maps/Grouping-Pattern-Group-elements-from-different-messages-BizTalk-Maps",
+      "project": "Working-with-Maps/Grouping-Pattern-Group-elements-from-different-messages-BizTalk-Maps/JoinMultipleMessages/JoinMultipleMessages.btproj",
+      "btm": "Working-with-Maps/Grouping-Pattern-Group-elements-from-different-messages-BizTalk-Maps/JoinMultipleMessages/Transform_User_and_Addresses_In_Output.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/grouping-pattern-implement-multi-level-muenchian-grouping/Sample1.MapInputToOutput",
+      "sample": "Working-with-Maps/Grouping-Pattern-implement-multi-level-Muenchian-grouping",
+      "project": "Working-with-Maps/Grouping-Pattern-implement-multi-level-Muenchian-grouping/MultiLevelMuenchianGrouping/MultiLevelMuenchianGrouping.btproj",
+      "btm": "Working-with-Maps/Grouping-Pattern-implement-multi-level-Muenchian-grouping/MultiLevelMuenchianGrouping/Sample1/MapInputToOutput.btm",
+      "input": "Working-with-Maps/Grouping-Pattern-implement-multi-level-Muenchian-grouping/Msg/InputRecord.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/grouping-pattern-selecting-distinct-nodes/Sample1.MapListParteners",
+      "sample": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes",
+      "project": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes/SelectDistinctValues/SelectDistinctValues.btproj",
+      "btm": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes/SelectDistinctValues/Sample1/MapListParteners.btm",
+      "input": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes/Msg/Input.xml",
+      "expected": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes/Msg/MapListParteners_output.xml",
+      "status": "paired"
+    },
+    {
+      "id": "working-with-maps/grouping-pattern-selecting-distinct-nodes/Sample2.DataMap",
+      "sample": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes",
+      "project": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes/SelectDistinctValues/SelectDistinctValues.btproj",
+      "btm": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes/SelectDistinctValues/Sample2/DataMap.btm",
+      "input": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes/Msg/DataInput.xml",
+      "expected": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes/Msg/DataMap_output.xml",
+      "status": "paired"
+    },
+    {
+      "id": "working-with-maps/grouping-pattern-selecting-distinct-nodes/Sample3.MapPerson",
+      "sample": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes",
+      "project": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes/SelectDistinctValues/SelectDistinctValues.btproj",
+      "btm": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes/SelectDistinctValues/Sample3/MapPerson.btm",
+      "input": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes/Msg/InputPersons.xml",
+      "expected": "Working-with-Maps/Grouping-Pattern-Selecting-distinct-nodes/Msg/MapPerson_output.xml",
+      "status": "paired"
+    },
+    {
+      "id": "working-with-maps/how-map-values-from-repeating-node-into-single-node-using-conditions/MapIfInsideLoop",
+      "sample": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions",
+      "project": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions/BizTalkMapperIFinLoppingRecord/BizTalkMapperIFinLoppingRecord.btproj",
+      "btm": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions/BizTalkMapperIFinLoppingRecord/MapIfInsideLoop.btm",
+      "input": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions/Files/Instance.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/how-map-values-from-repeating-node-into-single-node-using-conditions/MapIfInsideLoop2",
+      "sample": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions",
+      "project": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions/BizTalkMapperIFinLoppingRecord/BizTalkMapperIFinLoppingRecord.btproj",
+      "btm": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions/BizTalkMapperIFinLoppingRecord/MapIfInsideLoop2.btm",
+      "input": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions/Files/Instance.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/how-map-values-from-repeating-node-into-single-node-using-conditions/MapIfInsideLoop3",
+      "sample": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions",
+      "project": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions/BizTalkMapperIFinLoppingRecord/BizTalkMapperIFinLoppingRecord.btproj",
+      "btm": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions/BizTalkMapperIFinLoppingRecord/MapIfInsideLoop3.btm",
+      "input": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions/Files/Instance.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/how-map-values-from-repeating-node-into-single-node-using-conditions/MapIfInsideLoop4",
+      "sample": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions",
+      "project": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions/BizTalkMapperIFinLoppingRecord/BizTalkMapperIFinLoppingRecord.btproj",
+      "btm": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions/BizTalkMapperIFinLoppingRecord/MapIfInsideLoop4.btm",
+      "input": "Working-with-Maps/How-map-values-from-repeating-node-into-single-node-using-conditions/Files/Instance.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/how-to-access-orchestration-variables-from-maps/MAP11",
+      "sample": "Working-with-Maps/How-to-Access-Orchestration-Variables-from-Maps",
+      "project": "Working-with-Maps/How-to-Access-Orchestration-Variables-from-Maps/HowToSendOrchestrationVariablesIntoMaps/HowToSendOrchestrationVariablesIntoMaps.btproj",
+      "btm": "Working-with-Maps/How-to-Access-Orchestration-Variables-from-Maps/HowToSendOrchestrationVariablesIntoMaps/MAP11.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/how-to-access-orchestration-variables-from-maps/UsingFunctoid.OrderToSAPOrderAccessOrcVarFunctoids",
+      "sample": "Working-with-Maps/How-to-Access-Orchestration-Variables-from-Maps",
+      "project": "Working-with-Maps/How-to-Access-Orchestration-Variables-from-Maps/HowToSendOrchestrationVariablesIntoMaps/HowToSendOrchestrationVariablesIntoMaps.btproj",
+      "btm": "Working-with-Maps/How-to-Access-Orchestration-Variables-from-Maps/HowToSendOrchestrationVariablesIntoMaps/UsingFunctoid/OrderToSAPOrderAccessOrcVarFunctoids.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/how-to-access-orchestration-variables-from-maps/UsingHelperClass.OrderToSAPOrderAccOrcVarHC",
+      "sample": "Working-with-Maps/How-to-Access-Orchestration-Variables-from-Maps",
+      "project": "Working-with-Maps/How-to-Access-Orchestration-Variables-from-Maps/HowToSendOrchestrationVariablesIntoMaps/HowToSendOrchestrationVariablesIntoMaps.btproj",
+      "btm": "Working-with-Maps/How-to-Access-Orchestration-Variables-from-Maps/HowToSendOrchestrationVariablesIntoMaps/UsingHelperClass/OrderToSAPOrderAccOrcVarHC.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/how-to-access-orchestration-variables-from-maps/UsingSupportSchema.OrderToSAPOrderTransformation",
+      "sample": "Working-with-Maps/How-to-Access-Orchestration-Variables-from-Maps",
+      "project": "Working-with-Maps/How-to-Access-Orchestration-Variables-from-Maps/HowToSendOrchestrationVariablesIntoMaps/HowToSendOrchestrationVariablesIntoMaps.btproj",
+      "btm": "Working-with-Maps/How-to-Access-Orchestration-Variables-from-Maps/HowToSendOrchestrationVariablesIntoMaps/UsingSupportSchema/OrderToSAPOrderTransformation.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/how-to-create-a-custom-if-then-else-functoid/IfThenElseInAnEasyWay",
+      "sample": "Working-with-Maps/How-to-create-a-custom-If-Then-Else-Functoid",
+      "project": "Working-with-Maps/How-to-create-a-custom-If-Then-Else-Functoid/IfThenElseOperations/IfThenElseOperations.btproj",
+      "btm": "Working-with-Maps/How-to-create-a-custom-If-Then-Else-Functoid/IfThenElseOperations/IfThenElseInAnEasyWay.btm",
+      "input": "Working-with-Maps/How-to-create-a-custom-If-Then-Else-Functoid/DemoFile/Input_Update.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/how-to-create-a-custom-if-then-else-functoid/IfThenElseOutOfTheBoxFunctoids",
+      "sample": "Working-with-Maps/How-to-create-a-custom-If-Then-Else-Functoid",
+      "project": "Working-with-Maps/How-to-create-a-custom-If-Then-Else-Functoid/IfThenElseOperations/IfThenElseOperations.btproj",
+      "btm": "Working-with-Maps/How-to-create-a-custom-If-Then-Else-Functoid/IfThenElseOperations/IfThenElseOutOfTheBoxFunctoids.btm",
+      "input": "Working-with-Maps/How-to-create-a-custom-If-Then-Else-Functoid/DemoFile/Input_Update.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/how-to-create-a-global-inline-csharp-function/MappingMultipleDates.DifferentWayReuseScriptingFunctoid",
+      "sample": "Working-with-Maps/How-to-create-a-Global-Inline-Csharp-Function",
+      "project": "Working-with-Maps/How-to-create-a-Global-Inline-Csharp-Function/MapTipsDifferenWayToReuseScriptingFunctoids/MapTipsDifferenWayToReuseScriptingFunctoids.btproj",
+      "btm": "Working-with-Maps/How-to-create-a-Global-Inline-Csharp-Function/MapTipsDifferenWayToReuseScriptingFunctoids/MappingMultipleDates/DifferentWayReuseScriptingFunctoid.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/how-to-create-a-global-inline-csharp-function/MappingMultipleDates.ReuseScriptingFunctoidGoodWay",
+      "sample": "Working-with-Maps/How-to-create-a-Global-Inline-Csharp-Function",
+      "project": "Working-with-Maps/How-to-create-a-Global-Inline-Csharp-Function/MapTipsDifferenWayToReuseScriptingFunctoids/MapTipsDifferenWayToReuseScriptingFunctoids.btproj",
+      "btm": "Working-with-Maps/How-to-create-a-Global-Inline-Csharp-Function/MapTipsDifferenWayToReuseScriptingFunctoids/MappingMultipleDates/ReuseScriptingFunctoidGoodWay.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/how-to-reuse-scripting-functoids-with-inline-csharp/MappingMultipleDates.DifferentScriptingFunctoidWithTheSameNameNotOk",
+      "sample": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp",
+      "project": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp/MapTipsHowToReuseScriptingFunctoids/MapTipsHowToReuseScriptingFunctoids.btproj",
+      "btm": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp/MapTipsHowToReuseScriptingFunctoids/MappingMultipleDates/DifferentScriptingFunctoidWithTheSameNameNotOk.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/how-to-reuse-scripting-functoids-with-inline-csharp/MappingMultipleDates.DifferentScriptingFunctoidWithTheSameNameOk",
+      "sample": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp",
+      "project": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp/MapTipsHowToReuseScriptingFunctoids/MapTipsHowToReuseScriptingFunctoids.btproj",
+      "btm": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp/MapTipsHowToReuseScriptingFunctoids/MappingMultipleDates/DifferentScriptingFunctoidWithTheSameNameOk.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/how-to-reuse-scripting-functoids-with-inline-csharp/MappingMultipleDates.ReuseScriptingFunctoidBadWay",
+      "sample": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp",
+      "project": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp/MapTipsHowToReuseScriptingFunctoids/MapTipsHowToReuseScriptingFunctoids.btproj",
+      "btm": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp/MapTipsHowToReuseScriptingFunctoids/MappingMultipleDates/ReuseScriptingFunctoidBadWay.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/how-to-reuse-scripting-functoids-with-inline-csharp/MappingMultipleDates.ReuseScriptingFunctoidCrazyWay",
+      "sample": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp",
+      "project": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp/MapTipsHowToReuseScriptingFunctoids/MapTipsHowToReuseScriptingFunctoids.btproj",
+      "btm": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp/MapTipsHowToReuseScriptingFunctoids/MappingMultipleDates/ReuseScriptingFunctoidCrazyWay.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/how-to-reuse-scripting-functoids-with-inline-csharp/MappingMultipleDates.ReuseScriptingFunctoidGoodWay",
+      "sample": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp",
+      "project": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp/MapTipsHowToReuseScriptingFunctoids/MapTipsHowToReuseScriptingFunctoids.btproj",
+      "btm": "Working-with-Maps/How-To-Reuse-Scripting-Functoids-with-Inline-Csharp/MapTipsHowToReuseScriptingFunctoids/MappingMultipleDates/ReuseScriptingFunctoidGoodWay.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/how-to-use-database-lookup-functoid/MapConstantValues",
+      "sample": "Working-with-Maps/How-to-use-Database-Lookup-Functoid",
+      "project": "Working-with-Maps/How-to-use-Database-Lookup-Functoid/DatabaseLookup/DatabaseLookup.btproj",
+      "btm": "Working-with-Maps/How-to-use-Database-Lookup-Functoid/DatabaseLookup/MapConstantValues.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/ignore-namespaces-for-links-property/IgnoreNamespacesForLinks",
+      "sample": "Working-with-Maps/Ignore-Namespaces-for-Links-property",
+      "project": "Working-with-Maps/Ignore-Namespaces-for-Links-property/IgnoreNamespacesForLinks/IgnoreNamespacesForLinks.btproj",
+      "btm": "Working-with-Maps/Ignore-Namespaces-for-Links-property/IgnoreNamespacesForLinks/IgnoreNamespacesForLinks.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/ignore-namespaces-for-links-property/IgnoreNamespacesForLinksFalse",
+      "sample": "Working-with-Maps/Ignore-Namespaces-for-Links-property",
+      "project": "Working-with-Maps/Ignore-Namespaces-for-Links-property/IgnoreNamespacesForLinks/IgnoreNamespacesForLinks.btproj",
+      "btm": "Working-with-Maps/Ignore-Namespaces-for-Links-property/IgnoreNamespacesForLinks/IgnoreNamespacesForLinksFalse.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/01-LoppingTypes.01-OneToOne.OneToOneMap",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/01-LoppingTypes/01-OneToOne/OneToOneMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/01-LoppingTypes.01-OneToOne.OneToOneMapReadable",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/01-LoppingTypes/01-OneToOne/OneToOneMapReadable.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/01-LoppingTypes.02-OneToMany.OneToManyMap",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/01-LoppingTypes/02-OneToMany/OneToManyMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/01-LoppingTypes.02-OneToMany.OneToManyMapReadable",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/01-LoppingTypes/02-OneToMany/OneToManyMapReadable.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/01-LoppingTypes.03-ManyToOne.ManyToOneMap",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/01-LoppingTypes/03-ManyToOne/ManyToOneMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/01-LoppingTypes.04-ManyToMany.ManyToManyMap",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/01-LoppingTypes/04-ManyToMany/ManyToManyMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/01-LoppingTypes.05-NestedToOne.NestedToOneMap",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/01-LoppingTypes/05-NestedToOne/NestedToOneMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/01-LoppingTypes.05-NestedToOne.NestedToOneMapXSLT",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/01-LoppingTypes/05-NestedToOne/NestedToOneMapXSLT.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/01-LoppingTypes.06-NestedToNested.NestedToNestedMap",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/01-LoppingTypes/06-NestedToNested/NestedToNestedMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/01-LoppingTypes.06-NestedToNested.OtherExample.NestedFamiliesMap",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/01-LoppingTypes/06-NestedToNested/OtherExample/NestedFamiliesMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/01-LoppingTypes.06-NestedToNested.OtherExample.NestedFamiliesMapCorrect",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/01-LoppingTypes/06-NestedToNested/OtherExample/NestedFamiliesMapCorrect.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/01-LoppingTypes.06-NestedToNested.OtherExample.NestedFamiliesMapOptimized",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/01-LoppingTypes/06-NestedToNested/OtherExample/NestedFamiliesMapOptimized.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/ConditionalLooping.ConditionalLoopingMap",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/ConditionalLooping/ConditionalLoopingMap.btm",
+      "input": "Working-with-Maps/Looping-Pattern/TestFiles/Surveys.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/ConditionalLooping.ConditionalLoopingMapIncorrect",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/ConditionalLooping/ConditionalLoopingMapIncorrect.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/ConditionalLooping.ConditionalLoopingMapOrganize",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/ConditionalLooping/ConditionalLoopingMapOrganize.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/ConditionalLooping.ConditionalLoopingMapXSLT",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/ConditionalLooping/ConditionalLoopingMapXSLT.btm",
+      "input": "Working-with-Maps/Looping-Pattern/TestFiles/Surveys.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/FlatStructureToRepeatStructure.FlatStructureToRepeatStructureMap",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/FlatStructureToRepeatStructure/FlatStructureToRepeatStructureMap.btm",
+      "input": "Working-with-Maps/Looping-Pattern/TestFiles/Lines.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/FlatStructureToRepeatStructure.OtherExample.AddressFlatStructureToRepeatStructureMap",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/FlatStructureToRepeatStructure/OtherExample/AddressFlatStructureToRepeatStructureMap.btm",
+      "input": "Working-with-Maps/Looping-Pattern/TestFiles/PersonAddressFlatStructure.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/FlatStructureToRepeatStructure.ScopeTableFunctoid.MapScopeTableFunctoid",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/FlatStructureToRepeatStructure/ScopeTableFunctoid/MapScopeTableFunctoid.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/LoopValueMappingFlatteningFunctoid.LoppingFlatMap",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopValueMappingFlatteningFunctoid/LoppingFlatMap.btm",
+      "input": "Working-with-Maps/Looping-Pattern/TestFiles/input.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/LoopValueMappingFlatteningFunctoid.LoppingFlatMapImproved",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopValueMappingFlatteningFunctoid/LoppingFlatMapImproved.btm",
+      "input": "Working-with-Maps/Looping-Pattern/TestFiles/input.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/LoopValueMappingFunctoid.LoopingMap",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopValueMappingFunctoid/LoopingMap.btm",
+      "input": "Working-with-Maps/Looping-Pattern/TestFiles/input.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/LoopValueMappingFunctoid.LoopingMapImproved",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopValueMappingFunctoid/LoopingMapImproved.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/X1EDISample.Maps.Enrollment_to_5010_834",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/X1EDISample/Maps/Enrollment_to_5010_834.btm",
+      "input": "Working-with-Maps/Looping-Pattern/LoopingPattern/X1EDISample/Files/Enrollment_input.xml",
+      "expected": "Working-with-Maps/Looping-Pattern/LoopingPattern/X1EDISample/Files/Enrollment_to_5010_834_output.xml",
+      "status": "paired"
+    },
+    {
+      "id": "working-with-maps/looping-pattern/X1EDISample.Maps.Enrollment_to_5010_834WithXSLT",
+      "sample": "Working-with-Maps/Looping-Pattern",
+      "project": "Working-with-Maps/Looping-Pattern/LoopingPattern/LoopingPattern.btproj",
+      "btm": "Working-with-Maps/Looping-Pattern/LoopingPattern/X1EDISample/Maps/Enrollment_to_5010_834WithXSLT.btm",
+      "input": "Working-with-Maps/Looping-Pattern/LoopingPattern/X1EDISample/Files/Enrollment_input2.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/method-grid-property-explained/MethodHTML",
+      "sample": "Working-with-Maps/Method-Grid-Property-explained",
+      "project": "Working-with-Maps/Method-Grid-Property-explained/MethodGridProperty/MethodGridProperty.btproj",
+      "btm": "Working-with-Maps/Method-Grid-Property-explained/MethodGridProperty/MethodHTML.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/method-grid-property-explained/MethodTEXT",
+      "sample": "Working-with-Maps/Method-Grid-Property-explained",
+      "project": "Working-with-Maps/Method-Grid-Property-explained/MethodGridProperty/MethodGridProperty.btproj",
+      "btm": "Working-with-Maps/Method-Grid-Property-explained/MethodGridProperty/MethodTEXT.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/method-grid-property-explained/MethodXML",
+      "sample": "Working-with-Maps/Method-Grid-Property-explained",
+      "project": "Working-with-Maps/Method-Grid-Property-explained/MethodGridProperty/MethodGridProperty.btproj",
+      "btm": "Working-with-Maps/Method-Grid-Property-explained/MethodGridProperty/MethodXML.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/muenchian-grouping-and-sorting-without-losing-map-functionalities/Sample1.MapOrderUsingCount",
+      "sample": "Working-with-Maps/Muenchian-Grouping-and-Sorting-without-losing-Map-functionalities",
+      "project": "Working-with-Maps/Muenchian-Grouping-and-Sorting-without-losing-Map-functionalities/MuenchianGrouping/MuenchianGrouping.btproj",
+      "btm": "Working-with-Maps/Muenchian-Grouping-and-Sorting-without-losing-Map-functionalities/MuenchianGrouping/Sample1/MapOrderUsingCount.btm",
+      "input": "Working-with-Maps/Muenchian-Grouping-and-Sorting-without-losing-Map-functionalities/Samples/1/InputOrder.xml",
+      "expected": "Working-with-Maps/Muenchian-Grouping-and-Sorting-without-losing-Map-functionalities/Samples/1/InputOrder.xml_output.xml",
+      "status": "paired"
+    },
+    {
+      "id": "working-with-maps/muenchian-grouping-and-sorting-without-losing-map-functionalities/Sample1.MapOrderUsingGenerateId",
+      "sample": "Working-with-Maps/Muenchian-Grouping-and-Sorting-without-losing-Map-functionalities",
+      "project": "Working-with-Maps/Muenchian-Grouping-and-Sorting-without-losing-Map-functionalities/MuenchianGrouping/MuenchianGrouping.btproj",
+      "btm": "Working-with-Maps/Muenchian-Grouping-and-Sorting-without-losing-Map-functionalities/MuenchianGrouping/Sample1/MapOrderUsingGenerateId.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/name-value-transformation-pattern-hierarchical-schema-to-name-value-pair/Solution1.NameValueSolution1",
+      "sample": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair",
+      "project": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair/SandroPereira.MappingToNameValueRecord/SandroPereira.MappingToNameValueRecord.btproj",
+      "btm": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair/SandroPereira.MappingToNameValueRecord/Solution1/NameValueSolution1.btm",
+      "input": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair/Files/Request - Copy.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/name-value-transformation-pattern-hierarchical-schema-to-name-value-pair/Solution2.NameValueSolution2",
+      "sample": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair",
+      "project": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair/SandroPereira.MappingToNameValueRecord/SandroPereira.MappingToNameValueRecord.btproj",
+      "btm": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair/SandroPereira.MappingToNameValueRecord/Solution2/NameValueSolution2.btm",
+      "input": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair/Files/Request.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/name-value-transformation-pattern-hierarchical-schema-to-name-value-pair/Solution3.NameValueSolution3",
+      "sample": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair",
+      "project": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair/SandroPereira.MappingToNameValueRecord/SandroPereira.MappingToNameValueRecord.btproj",
+      "btm": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair/SandroPereira.MappingToNameValueRecord/Solution3/NameValueSolution3.btm",
+      "input": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair/Files/Request.xml",
+      "expected": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair/Files/NameValueSolution3_output.xml",
+      "status": "paired"
+    },
+    {
+      "id": "working-with-maps/name-value-transformation-pattern-hierarchical-schema-to-name-value-pair/Solution4.NameValueSolution4",
+      "sample": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair",
+      "project": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair/SandroPereira.MappingToNameValueRecord/SandroPereira.MappingToNameValueRecord.btproj",
+      "btm": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair/SandroPereira.MappingToNameValueRecord/Solution4/NameValueSolution4.btm",
+      "input": "Working-with-Maps/Name-Value-Transformation-Pattern-Hierarchical-Schema-to-Name-Value-Pair/Files/Request.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/name-value-transformation-pattern-name-value-pair-to-hierarchical-schema/Solution1.Map1",
+      "sample": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema",
+      "project": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema/SandroPereira.NameValueToHierarchical/SandroPereira.NameValueToHierarchical.btproj",
+      "btm": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema/SandroPereira.NameValueToHierarchical/Solution1/Map1.btm",
+      "input": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema/Files/NameValueSolution.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/name-value-transformation-pattern-name-value-pair-to-hierarchical-schema/Solution2.Map2",
+      "sample": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema",
+      "project": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema/SandroPereira.NameValueToHierarchical/SandroPereira.NameValueToHierarchical.btproj",
+      "btm": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema/SandroPereira.NameValueToHierarchical/Solution2/Map2.btm",
+      "input": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema/Files/NameValueSolution.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/name-value-transformation-pattern-name-value-pair-to-hierarchical-schema/Solution3.Map3",
+      "sample": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema",
+      "project": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema/SandroPereira.NameValueToHierarchical/SandroPereira.NameValueToHierarchical.btproj",
+      "btm": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema/SandroPereira.NameValueToHierarchical/Solution3/Map3.btm",
+      "input": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema/Files/NameValueSolution.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/name-value-transformation-pattern-name-value-pair-to-hierarchical-schema/Solution3.Map4",
+      "sample": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema",
+      "project": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema/SandroPereira.NameValueToHierarchical/SandroPereira.NameValueToHierarchical.btproj",
+      "btm": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema/SandroPereira.NameValueToHierarchical/Solution3/Map4.btm",
+      "input": "Working-with-Maps/Name-Value-Transformation-Pattern-Name-Value-Pair-to-Hierarchical-Schema/Files/NameValueSolution.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/omit-xml-declaration-grid-property-explained/OmitXMLDeclaration",
+      "sample": "Working-with-Maps/Omit-XML-Declaration-Grid-Property-explained",
+      "project": "Working-with-Maps/Omit-XML-Declaration-Grid-Property-explained/OmitXMLDeclaration/OmitXMLDeclaration.btproj",
+      "btm": "Working-with-Maps/Omit-XML-Declaration-Grid-Property-explained/OmitXMLDeclaration/OmitXMLDeclaration.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/omit-xml-declaration-grid-property-explained/OmitXMLDeclarationOmitFalse",
+      "sample": "Working-with-Maps/Omit-XML-Declaration-Grid-Property-explained",
+      "project": "Working-with-Maps/Omit-XML-Declaration-Grid-Property-explained/OmitXMLDeclaration/OmitXMLDeclaration.btproj",
+      "btm": "Working-with-Maps/Omit-XML-Declaration-Grid-Property-explained/OmitXMLDeclaration/OmitXMLDeclarationOmitFalse.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/optimizevaluemapping-attribute-of-the-mapsource-element/MapConditions",
+      "sample": "Working-with-Maps/OptimizeValueMapping-attribute-of-the-mapsource-element",
+      "project": "Working-with-Maps/OptimizeValueMapping-attribute-of-the-mapsource-element/OptimizeValueMapping/OptimizeValueMapping.btproj",
+      "btm": "Working-with-Maps/OptimizeValueMapping-attribute-of-the-mapsource-element/OptimizeValueMapping/MapConditions.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/optimizevaluemapping-attribute-of-the-mapsource-element/MapConditionsNotOptimizeValueMapping",
+      "sample": "Working-with-Maps/OptimizeValueMapping-attribute-of-the-mapsource-element",
+      "project": "Working-with-Maps/OptimizeValueMapping-attribute-of-the-mapsource-element/OptimizeValueMapping/OptimizeValueMapping.btproj",
+      "btm": "Working-with-Maps/OptimizeValueMapping-attribute-of-the-mapsource-element/OptimizeValueMapping/MapConditionsNotOptimizeValueMapping.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/preservesequenceorder-attribute-of-the-mapsource-element/MapToOnlyOneStructure",
+      "sample": "Working-with-Maps/PreserveSequenceOrder-attribute-of-the-mapsource-element",
+      "project": "Working-with-Maps/PreserveSequenceOrder-attribute-of-the-mapsource-element/PreserveSequenceOrder/PreserveSequenceOrder.btproj",
+      "btm": "Working-with-Maps/PreserveSequenceOrder-attribute-of-the-mapsource-element/PreserveSequenceOrder/MapToOnlyOneStructure.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/preservesequenceorder-attribute-of-the-mapsource-element/MapToOnlyOneStructurePSYes",
+      "sample": "Working-with-Maps/PreserveSequenceOrder-attribute-of-the-mapsource-element",
+      "project": "Working-with-Maps/PreserveSequenceOrder-attribute-of-the-mapsource-element/PreserveSequenceOrder/PreserveSequenceOrder.btproj",
+      "btm": "Working-with-Maps/PreserveSequenceOrder-attribute-of-the-mapsource-element/PreserveSequenceOrder/MapToOnlyOneStructurePSYes.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/preservesequenceorder-attribute-of-the-mapsource-element/PreserveSequenceOrder",
+      "sample": "Working-with-Maps/PreserveSequenceOrder-attribute-of-the-mapsource-element",
+      "project": "Working-with-Maps/PreserveSequenceOrder-attribute-of-the-mapsource-element/PreserveSequenceOrder/PreserveSequenceOrder.btproj",
+      "btm": "Working-with-Maps/PreserveSequenceOrder-attribute-of-the-mapsource-element/PreserveSequenceOrder/PreserveSequenceOrder.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/preservesequenceorder-attribute-of-the-mapsource-element/PreserveSequenceOrderYes",
+      "sample": "Working-with-Maps/PreserveSequenceOrder-attribute-of-the-mapsource-element",
+      "project": "Working-with-Maps/PreserveSequenceOrder-attribute-of-the-mapsource-element/PreserveSequenceOrder/PreserveSequenceOrder.btproj",
+      "btm": "Working-with-Maps/PreserveSequenceOrder-attribute-of-the-mapsource-element/PreserveSequenceOrder/PreserveSequenceOrderYes.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/sorting-pattern/DistinctListSample.MapListPartenersOrdered",
+      "sample": "Working-with-Maps/Sorting-Pattern",
+      "project": "Working-with-Maps/Sorting-Pattern/BizTalkMapperSortingPattern/BizTalkMapperSortingPattern.btproj",
+      "btm": "Working-with-Maps/Sorting-Pattern/BizTalkMapperSortingPattern/DistinctListSample/MapListPartenersOrdered.btm",
+      "input": "Working-with-Maps/Sorting-Pattern/TestMsg/ExternalEmployees.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/sorting-pattern/SortByMultipleFields.SortByMultipleFields",
+      "sample": "Working-with-Maps/Sorting-Pattern",
+      "project": "Working-with-Maps/Sorting-Pattern/BizTalkMapperSortingPattern/BizTalkMapperSortingPattern.btproj",
+      "btm": "Working-with-Maps/Sorting-Pattern/BizTalkMapperSortingPattern/SortByMultipleFields/SortByMultipleFields.btm",
+      "input": "Working-with-Maps/Sorting-Pattern/TestMsg/Order_input.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/sorting-pattern/SortElementsDemo.SortElementsDemo",
+      "sample": "Working-with-Maps/Sorting-Pattern",
+      "project": "Working-with-Maps/Sorting-Pattern/BizTalkMapperSortingPattern/BizTalkMapperSortingPattern.btproj",
+      "btm": "Working-with-Maps/Sorting-Pattern/BizTalkMapperSortingPattern/SortElementsDemo/SortElementsDemo.btm",
+      "input": null,
+      "expected": "Working-with-Maps/Sorting-Pattern/TestMsg/SortElementsDemo_output.xml",
+      "status": "expected-only"
+    },
+    {
+      "id": "working-with-maps/sorting-pattern/SortElementsDemoByNumber.SortElementsByNumber",
+      "sample": "Working-with-Maps/Sorting-Pattern",
+      "project": "Working-with-Maps/Sorting-Pattern/BizTalkMapperSortingPattern/BizTalkMapperSortingPattern.btproj",
+      "btm": "Working-with-Maps/Sorting-Pattern/BizTalkMapperSortingPattern/SortElementsDemoByNumber/SortElementsByNumber.btm",
+      "input": "Working-with-Maps/Sorting-Pattern/TestMsg/PersonsWithId_input.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/sorting-pattern/SortUsingMuenchianMethod.MapOrderUsingGenerateId",
+      "sample": "Working-with-Maps/Sorting-Pattern",
+      "project": "Working-with-Maps/Sorting-Pattern/BizTalkMapperSortingPattern/BizTalkMapperSortingPattern.btproj",
+      "btm": "Working-with-Maps/Sorting-Pattern/BizTalkMapperSortingPattern/SortUsingMuenchianMethod/MapOrderUsingGenerateId.btm",
+      "input": "Working-with-Maps/Sorting-Pattern/TestMsg/SortUsingMuenchianMethodInputOrder.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/splitter-pattern/TransformManyToManyOrders",
+      "sample": "Working-with-Maps/Splitter-Pattern",
+      "project": "Working-with-Maps/Splitter-Pattern/MappingWorkingWithMultipleOutputMessages/MappingWorkingWithMultipleOutputMessages.btproj",
+      "btm": "Working-with-Maps/Splitter-Pattern/MappingWorkingWithMultipleOutputMessages/TransformManyToManyOrders.btm",
+      "input": "Working-with-Maps/Splitter-Pattern/TesteFiles/MultiMsgTestFileWithoutDiscount.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/splitter-pattern/TransformManyToManyOrdersFunctoids",
+      "sample": "Working-with-Maps/Splitter-Pattern",
+      "project": "Working-with-Maps/Splitter-Pattern/MappingWorkingWithMultipleOutputMessages/MappingWorkingWithMultipleOutputMessages.btproj",
+      "btm": "Working-with-Maps/Splitter-Pattern/MappingWorkingWithMultipleOutputMessages/TransformManyToManyOrdersFunctoids.btm",
+      "input": "Working-with-Maps/Splitter-Pattern/TesteFiles/MultiMsgTestFile.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/splitter-pattern/TransformManyToManyOrdersGVariable",
+      "sample": "Working-with-Maps/Splitter-Pattern",
+      "project": "Working-with-Maps/Splitter-Pattern/MappingWorkingWithMultipleOutputMessages/MappingWorkingWithMultipleOutputMessages.btproj",
+      "btm": "Working-with-Maps/Splitter-Pattern/MappingWorkingWithMultipleOutputMessages/TransformManyToManyOrdersGVariable.btm",
+      "input": "Working-with-Maps/Splitter-Pattern/TesteFiles/MultiMsgTestFile.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/splitter-pattern/TransformOneToManyOrders",
+      "sample": "Working-with-Maps/Splitter-Pattern",
+      "project": "Working-with-Maps/Splitter-Pattern/MappingWorkingWithMultipleOutputMessages/MappingWorkingWithMultipleOutputMessages.btproj",
+      "btm": "Working-with-Maps/Splitter-Pattern/MappingWorkingWithMultipleOutputMessages/TransformOneToManyOrders.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/treatelementsasrecords-attribute-of-the-mapsource-element/TreatElementsAsRecordsMap",
+      "sample": "Working-with-Maps/TreatElementsAsRecords-attribute-of-the-mapsource-element",
+      "project": "Working-with-Maps/TreatElementsAsRecords-attribute-of-the-mapsource-element/TreatElementsAsRecords/TreatElementsAsRecords.btproj",
+      "btm": "Working-with-Maps/TreatElementsAsRecords-attribute-of-the-mapsource-element/TreatElementsAsRecords/TreatElementsAsRecordsMap.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/treatelementsasrecords-attribute-of-the-mapsource-element/TreatElementsAsRecordsMapYes",
+      "sample": "Working-with-Maps/TreatElementsAsRecords-attribute-of-the-mapsource-element",
+      "project": "Working-with-Maps/TreatElementsAsRecords-attribute-of-the-mapsource-element/TreatElementsAsRecords/TreatElementsAsRecords.btproj",
+      "btm": "Working-with-Maps/TreatElementsAsRecords-attribute-of-the-mapsource-element/TreatElementsAsRecords/TreatElementsAsRecordsMapYes.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/working-with-constant-values/MapConstantValues",
+      "sample": "Working-with-Maps/Working-with-Constant-Values",
+      "project": "Working-with-Maps/Working-with-Constant-Values/WorkingWithConstantValues/WorkingWithConstantValues.btproj",
+      "btm": "Working-with-Maps/Working-with-Constant-Values/WorkingWithConstantValues/MapConstantValues.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-maps/working-with-nillable-values/MapNillValues",
+      "sample": "Working-with-Maps/Working-With-Nillable-Values",
+      "project": "Working-with-Maps/Working-With-Nillable-Values/WorkingWithNillableValues/WorkingWithNillableValues.btproj",
+      "btm": "Working-with-Maps/Working-With-Nillable-Values/WorkingWithNillableValues/MapNillValues.btm",
+      "input": "Working-with-Maps/Working-With-Nillable-Values/TestingFiles/InputSchema_inputNill.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/working-with-nillable-values/MapNillValuesWithCustomXSLT",
+      "sample": "Working-with-Maps/Working-With-Nillable-Values",
+      "project": "Working-with-Maps/Working-With-Nillable-Values/WorkingWithNillableValues/WorkingWithNillableValues.btproj",
+      "btm": "Working-with-Maps/Working-With-Nillable-Values/WorkingWithNillableValues/MapNillValuesWithCustomXSLT.btm",
+      "input": "Working-with-Maps/Working-With-Nillable-Values/TestingFiles/InputSchema_inputNill.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-maps/working-with-nillable-values/MapNillValuesWithInlineCustomXSLTWorkarround",
+      "sample": "Working-with-Maps/Working-With-Nillable-Values",
+      "project": "Working-with-Maps/Working-With-Nillable-Values/WorkingWithNillableValues/WorkingWithNillableValues.btproj",
+      "btm": "Working-with-Maps/Working-With-Nillable-Values/WorkingWithNillableValues/MapNillValuesWithInlineCustomXSLTWorkarround.btm",
+      "input": "Working-with-Maps/Working-With-Nillable-Values/TestingFiles/InputSchema_inputNill.xml",
+      "expected": null,
+      "status": "input-only"
+    },
+    {
+      "id": "working-with-orquestrations/call-sql-stored-procedure-without-inputs/01-MostCommonSituation.mapTriggerToSQLGetCodes",
+      "sample": "Working-with-Orquestrations/Call-SQL-Stored-procedure-without-inputs",
+      "project": "Working-with-Orquestrations/Call-SQL-Stored-procedure-without-inputs/HowToCallSQLStoredProcedureWithoutInputs/HowToCallSQLStoredProcedureWithoutInputs.btproj",
+      "btm": "Working-with-Orquestrations/Call-SQL-Stored-procedure-without-inputs/HowToCallSQLStoredProcedureWithoutInputs/01-MostCommonSituation/mapTriggerToSQLGetCodes.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-orquestrations/call-sql-stored-procedure-without-inputs/02-CrazyApproach.mapTriggerCrazyToSQLGetCodes",
+      "sample": "Working-with-Orquestrations/Call-SQL-Stored-procedure-without-inputs",
+      "project": "Working-with-Orquestrations/Call-SQL-Stored-procedure-without-inputs/HowToCallSQLStoredProcedureWithoutInputs/HowToCallSQLStoredProcedureWithoutInputs.btproj",
+      "btm": "Working-with-Orquestrations/Call-SQL-Stored-procedure-without-inputs/HowToCallSQLStoredProcedureWithoutInputs/02-CrazyApproach/mapTriggerCrazyToSQLGetCodes.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-orquestrations/call-sql-stored-procedure-without-inputs/03-UnnecessaryApproach.mapTriggerUnnecessaryToSQLGetCodes",
+      "sample": "Working-with-Orquestrations/Call-SQL-Stored-procedure-without-inputs",
+      "project": "Working-with-Orquestrations/Call-SQL-Stored-procedure-without-inputs/HowToCallSQLStoredProcedureWithoutInputs/HowToCallSQLStoredProcedureWithoutInputs.btproj",
+      "btm": "Working-with-Orquestrations/Call-SQL-Stored-procedure-without-inputs/HowToCallSQLStoredProcedureWithoutInputs/03-UnnecessaryApproach/mapTriggerUnnecessaryToSQLGetCodes.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-routing/cbrwithloboperations/Maps.mapCanonicalAdd_to_LOBInsert",
+      "sample": "Working-with-Routing/CBRwithLOBOperations",
+      "project": "Working-with-Routing/CBRwithLOBOperations/CBRwithLOBOperations/CBRwithLOBOperations.btproj",
+      "btm": "Working-with-Routing/CBRwithLOBOperations/CBRwithLOBOperations/Maps/mapCanonicalAdd_to_LOBInsert.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-routing/cbrwithloboperations/Maps.mapCanonicalDelete_to_LOBDelete",
+      "sample": "Working-with-Routing/CBRwithLOBOperations",
+      "project": "Working-with-Routing/CBRwithLOBOperations/CBRwithLOBOperations/CBRwithLOBOperations.btproj",
+      "btm": "Working-with-Routing/CBRwithLOBOperations/CBRwithLOBOperations/Maps/mapCanonicalDelete_to_LOBDelete.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-routing/cbrwithloboperations/Maps.mapCanonicalSelect_to_LOBSelect",
+      "sample": "Working-with-Routing/CBRwithLOBOperations",
+      "project": "Working-with-Routing/CBRwithLOBOperations/CBRwithLOBOperations/CBRwithLOBOperations.btproj",
+      "btm": "Working-with-Routing/CBRwithLOBOperations/CBRwithLOBOperations/Maps/mapCanonicalSelect_to_LOBSelect.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-routing/cbrwithloboperations/Maps.mapLOBDelete_to_CanonicalResponse",
+      "sample": "Working-with-Routing/CBRwithLOBOperations",
+      "project": "Working-with-Routing/CBRwithLOBOperations/CBRwithLOBOperations/CBRwithLOBOperations.btproj",
+      "btm": "Working-with-Routing/CBRwithLOBOperations/CBRwithLOBOperations/Maps/mapLOBDelete_to_CanonicalResponse.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-routing/cbrwithloboperations/Maps.mapLOBInsert_to_CanonicalResponse",
+      "sample": "Working-with-Routing/CBRwithLOBOperations",
+      "project": "Working-with-Routing/CBRwithLOBOperations/CBRwithLOBOperations/CBRwithLOBOperations.btproj",
+      "btm": "Working-with-Routing/CBRwithLOBOperations/CBRwithLOBOperations/Maps/mapLOBInsert_to_CanonicalResponse.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-routing/cbrwithloboperations/Maps.mapLOBSelect_to_CanonicalResponse",
+      "sample": "Working-with-Routing/CBRwithLOBOperations",
+      "project": "Working-with-Routing/CBRwithLOBOperations/CBRwithLOBOperations/CBRwithLOBOperations.btproj",
+      "btm": "Working-with-Routing/CBRwithLOBOperations/CBRwithLOBOperations/Maps/mapLOBSelect_to_CanonicalResponse.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    },
+    {
+      "id": "working-with-schemas/poc.biztalk.propertydemotion/mapPersonToRegistration",
+      "sample": "Working-with-Schemas/POC.BizTalk.PropertyDemotion",
+      "project": "Working-with-Schemas/POC.BizTalk.PropertyDemotion/POC.BizTalk.PropertyDemotion/POC.BizTalk.PropertyDemotion.btproj",
+      "btm": "Working-with-Schemas/POC.BizTalk.PropertyDemotion/POC.BizTalk.PropertyDemotion/mapPersonToRegistration.btm",
+      "input": null,
+      "expected": null,
+      "status": "unresolved"
+    }
+  ]
+}
