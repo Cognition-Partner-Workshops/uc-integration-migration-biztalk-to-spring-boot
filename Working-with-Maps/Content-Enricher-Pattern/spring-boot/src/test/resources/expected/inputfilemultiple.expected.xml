@@ -1,0 +1,36 @@
+<ns0:Informations xmlns:ns0="http://BizTalk_Server_GenerationFichiersReleve.Test3">
+  <Users>
+    <User>
+      <UserID>125</UserID>
+      <LastName>Pereira</LastName>
+      <FirstName>Sandro</FirstName>
+      <Addresses>
+        <Address>
+          <UserID>125</UserID>
+          <AddressLine1>Praceta do Marao</AddressLine1>
+          <PostCode>4415-538</PostCode>
+          <Town>Crestuma</Town>
+        </Address>
+        <Address>
+          <UserID>125</UserID>
+          <AddressLine1>Rua Passos Manuel, 223 - 4 Andar</AddressLine1>
+          <PostCode>4000-385</PostCode>
+          <Town>Porto</Town>
+        </Address>
+      </Addresses>
+    </User>
+    <User>
+      <UserID>130</UserID>
+      <LastName>Silva</LastName>
+      <FirstName>Miguel</FirstName>
+      <Addresses>
+        <Address>
+          <UserID>130</UserID>
+          <AddressLine1>Rua Passos Manuel, 223 - 4 Andar</AddressLine1>
+          <PostCode>4000-385</PostCode>
+          <Town>Porto</Town>
+        </Address>
+      </Addresses>
+    </User>
+  </Users>
+</ns0:Informations>
