@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: content-enricher
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 20MB
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info

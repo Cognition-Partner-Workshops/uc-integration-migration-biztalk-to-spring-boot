@@ -1,0 +1,17 @@
+<ns0:Informations xmlns:ns0="http://BizTalk_Server_GenerationFichiersReleve.Test3">
+  <Users>
+    <User>
+      <UserID>125</UserID>
+      <LastName>LastName_0</LastName>
+      <FirstName>FirstName_0</FirstName>
+      <Addresses>
+        <Address>
+          <UserID>125</UserID>
+          <AddressLine1>AddressLine1_0</AddressLine1>
+          <PostCode>10</PostCode>
+          <Town>Town_0</Town>
+        </Address>
+      </Addresses>
+    </User>
+  </Users>
+</ns0:Informations>

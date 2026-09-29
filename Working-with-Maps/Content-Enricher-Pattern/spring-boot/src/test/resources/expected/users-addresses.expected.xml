@@ -1,0 +1,36 @@
+<ns0:Informations xmlns:ns0="http://BizTalk_Server_GenerationFichiersReleve.Test3">
+  <Users>
+    <User>
+      <UserID>1</UserID>
+      <LastName>Nicolas</LastName>
+      <FirstName>Brun</FirstName>
+      <Addresses>
+        <Address>
+          <UserID>1</UserID>
+          <AddressLine1>245 rue françois 1er </AddressLine1>
+          <PostCode>69001</PostCode>
+          <Town>Lyon</Town>
+        </Address>
+      </Addresses>
+    </User>
+    <User>
+      <UserID>2</UserID>
+      <LastName>Philippe</LastName>
+      <FirstName>Picard</FirstName>
+      <Addresses>
+        <Address>
+          <UserID>2</UserID>
+          <AddressLine1>18 avenue Gerard Majax</AddressLine1>
+          <PostCode>75001</PostCode>
+          <Town>Paris</Town>
+        </Address>
+        <Address>
+          <UserID>2</UserID>
+          <AddressLine1>450 rue Michou</AddressLine1>
+          <PostCode>75005</PostCode>
+          <Town>Paris</Town>
+        </Address>
+      </Addresses>
+    </User>
+  </Users>
+</ns0:Informations>
