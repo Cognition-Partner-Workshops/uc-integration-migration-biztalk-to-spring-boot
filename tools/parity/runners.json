@@ -1,1 +1,3 @@
-{}
+{
+  "working-with-maps/muenchian-grouping-and-sorting-without-losing-map-functionalities/Sample1.MapOrderUsingCount": ["java", "-jar", "spring-boot-app/target/biztalk-migration-0.1.0-SNAPSHOT.jar", "--map=MapOrderUsingCount", "{input}"]
+}
