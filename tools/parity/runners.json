@@ -1,1 +1,3 @@
-{}
+{
+  "working-with-maps/name-value-transformation-pattern-hierarchical-schema-to-name-value-pair/Solution3.NameValueSolution3": ["java", "-jar", "spring-boot-app/target/biztalk-migration-0.1.0-SNAPSHOT.jar", "--map=NameValueSolution3", "{input}"]
+}
