@@ -1,1 +1,3 @@
-{}
+{
+  "working-with-maps/looping-pattern/X1EDISample.Maps.Enrollment_to_5010_834": ["java", "-jar", "spring-boot-app/target/biztalk-migration-0.1.0-SNAPSHOT.jar", "--map=Enrollment_to_5010_834", "{input}"]
+}
