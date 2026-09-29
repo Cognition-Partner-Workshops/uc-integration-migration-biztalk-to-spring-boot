@@ -8,3 +8,4 @@ build/
 .vscode/
 # Visual Studio
 .vs/
+__pycache__/

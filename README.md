@@ -46,6 +46,20 @@ functoids and pipeline components (C#), BizTalk unit tests, and sample input/out
 3. Prove parity with tests that replay the sample input messages in the sample folder and compare the output with the BizTalk-generated output.
 4. Fan out the remaining samples as independent work items. Each sample is a separate solution, so migrations can run in parallel.
 
+## Migration target and parity gate
+
+- `spring-boot-app/` — the Spring Boot 3.5 / Java 17 target. It builds and starts with **no maps migrated**; each migration adds a `MapTransform` bean. `java -jar target/biztalk-migration-*.jar --map=<MapName> <input.xml>` runs one map from the command line.
+- `tools/parity/` — the verification loop. BizTalk cannot run on Linux, so the oracle is the Test Map evidence in the estate: `inventory.py` pairs each `.btm` with the input instance recorded in its `.btproj.user` and the `*_output.xml` BizTalk produced (`fixtures.json`), and `parity.py` diffs a migrated transform's output against that recording in canonical XML.
+
+```bash
+python3 tools/parity/inventory.py                 # rebuild fixtures.json
+python3 tools/parity/parity.py list               # maps with a recorded input + output
+cd spring-boot-app && ./mvnw -q verify && cd ..   # build the target
+python3 tools/parity/parity.py run <map-id> -- java -jar spring-boot-app/target/biztalk-migration-0.1.0-SNAPSHOT.jar --map=<MapName> {input}
+```
+
+The migration procedure is the playbook at `.workshop/playbooks/migrate-biztalk-map-to-spring-boot.devin.md`; repo mechanics are in `.agents/skills/biztalk-to-spring-boot-migration/SKILL.md`. `main` stays the before-state: migrated maps land on `migration/<namespace>` branches.
+
 ## Layout notes
 
 - Folder names are kept as they are upstream (including `Working-with-Orquestrations`) so history and links still resolve.
