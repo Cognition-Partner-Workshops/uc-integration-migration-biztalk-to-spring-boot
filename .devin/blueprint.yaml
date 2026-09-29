@@ -1,0 +1,48 @@
+# https://docs.devin.ai/onboard-devin/environment-yaml
+# Commands run from the repo root. The repo is a BizTalk source estate (buildable only on Windows + BizTalk SDK);
+# One-time setup (e.g., install system tools, global CLIs).
+initialize: |
+  export DEBIAN_FRONTEND=noninteractive
+  sudo -n apt-get update
+  sudo -n apt-get install -y libxml2-utils xsltproc maven openjdk-17-jdk-headless
+  echo "JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64" >> $ENVRC
+  echo "PATH=/usr/lib/jvm/java-17-openjdk-amd64/bin:$HOME/gradle-8.6/bin:$PATH" >> $ENVRC
+  if [ ! -x "$HOME/gradle-8.6/bin/gradle" ]; then
+    curl -fsSL https://services.gradle.org/distributions/gradle-8.6-bin.zip -o /tmp/gradle.zip && unzip -q /tmp/gradle.zip -d "$HOME" && rm /tmp/gradle.zip
+  fi
+  # Warm ~/.m2 with the Spring Boot 3.5 / Spring Integration starters the migration modules will use
+  rm -rf /tmp/sb-warm && mkdir -p /tmp/sb-warm/src/main/java/w && cd /tmp/sb-warm
+  cat > pom.xml <<'EOF'
+  <project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <parent><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-parent</artifactId><version>3.5.16</version><relativePath/></parent>
+    <groupId>local</groupId><artifactId>warm</artifactId><version>0</version>
+    <properties><java.version>17</java.version></properties>
+    <dependencies>
+      <dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-web</artifactId></dependency>
+      <dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-integration</artifactId></dependency>
+      <dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-validation</artifactId></dependency>
+      <dependency><groupId>org.springframework.integration</groupId><artifactId>spring-integration-file</artifactId></dependency>
+      <dependency><groupId>org.springframework.integration</groupId><artifactId>spring-integration-xml</artifactId></dependency>
+      <dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-test</artifactId><scope>test</scope></dependency>
+      <dependency><groupId>org.xmlunit</groupId><artifactId>xmlunit-core</artifactId><scope>test</scope></dependency>
+    </dependencies>
+    <build><plugins><plugin><groupId>org.springframework.boot</groupId><artifactId>spring-boot-maven-plugin</artifactId></plugin></plugins></build>
+  </project>
+  EOF
+  printf 'package w;\npublic class W { public static void main(String[] a) {} }\n' > src/main/java/w/W.java
+  JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 mvn -q -B package
+  cd - && rm -rf /tmp/sb-warm
+# Install project dependencies (runs during builds, surfaced to agent at session start).
+maintenance: |
+  find . -maxdepth 4 -name pom.xml -not -path '*/target/*' | while read -r p; do (cd "$(dirname "$p")" && mvn -q -B -DskipTests package); done
+knowledge:
+  - name: estate-layout-and-limits
+    contents: |
+      Source estate = 60+ BizTalk VS solutions (.sln/.btproj/.odx/.btm/.xsd/.btp) plus 11 .NET Framework 4.x .csproj (functoids, pipeline components, MSTest) referencing Microsoft.BizTalk.*; none of it builds, tests, or runs on Linux (needs Windows + BizTalk Server SDK). There is no runnable app in the repo. bin/ and obj/ folders are committed upstream output — reference only. Many .btm/.xsl/.xsd files are UTF-16 LE with BOM and CRLF; xmllint/xsltproc read them fine, use `iconv -f UTF-16 -t UTF-8` before grepping.
+  - name: build-and-test-migrated-modules
+    contents: |
+      Target stack: Spring Boot 3.5.x on JDK 17 (JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64; JDK 21 is also at /usr/lib/jvm/java-21-openjdk-amd64), Maven 3.6.3 (`mvn -B package` builds + runs tests), Gradle 8.6 at ~/gradle-8.6/bin. Maven Central resolves through the Google mirror configured in ~/.m2/settings.xml (repo.maven.apache.org may 429). Run a module with `java -jar target/<module>.jar` and check `curl localhost:8080/actuator/health` when spring-boot-starter-actuator is present. New modules should live next to the sample they migrate (e.g. Working-with-Maps/<Sample>/spring-boot/) so the maintenance step picks up their pom.xml.
+  - name: inspect-schemas-and-maps-locally
+    contents: |
+      Validate all schemas: `find . -name '*.xsd' -not -path '*/obj/*' -not -path '*/bin/*' -print0 | xargs -0 -n1 xmllint --noout`. Run an XSLT map against a sample: `xsltproc <map>.xsl <Sample>/TestFiles/<input>.xml` (e.g. Working-with-Maps/Working-With-Nillable-Values/WorkingWithNillableValues/MapNillValuesWithCustomXSLT.xsl with TestingFiles/InputSchema_inputNill.xml). .btm maps embed XSLT/functoid definitions in XML — extract the XSLT from the CustomXSLT / scripting functoid nodes; msxsl:script (inline C#) needs porting to Java. Sample inputs/expected outputs for parity tests are under each sample's TestFiles/ or Files/ folder.
